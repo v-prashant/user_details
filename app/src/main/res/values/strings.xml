@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">User App</string>
+    <string name="trending">Trending</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="no_internet_msg">An alien is probably blocking your signal.</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="server_error">Server Error</string>
+    <string name="search">Search By User Name</string>
+    <string name="graduation">Graduation</string>
+    <string name="personal_detail">Personal Details</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="dob">DOB</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address_details">Address Details</string>
+    <string name="house_number">House no, flat, building, apartment</string>
+    <string name="area_street">Area, street, sector, village</string>
+    <string name="pincode">Pincode</string>
+    <string name="town_city">Town/City</string>
+    <string name="state">State</string>
+    <string name="education_details">Education Details</string>
+    <string name="level">Level</string>
+    <string name="start_year">Start year</string>
+    <string name="end_year">End year</string>
+    <string name="stream">Stream</string>
+    <string name="submit">Submit</string>
+    <string name="institute_name">Institute/Collage name</string>
+
+    <string-array name="sp_level">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+
+</resources>
